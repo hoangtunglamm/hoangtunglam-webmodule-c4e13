@@ -1,0 +1,27 @@
+#small-img{
+  width: 10%;
+}
+
+
+
+.box{
+
+  display: inline-block;
+
+  line-height: 35px;
+  padding-left: 10px
+}
+.font{
+  font-size: 320%
+}
+.text_a_c{
+  text-align: left;
+}
+.paddingl50{
+  padding-left:50px;
+}
+.bar_li{
+  display: inline-block;
+  width: 200px;
+  height: 40px;
+  line-height: 40px;}
